@@ -11,8 +11,9 @@
 <p>A study group member pointed out that the date format in the Multiple_year_stock_data.xlxs, was already in the 01/02/2020 format. I did find out how to format the code in the Macro to run this on all sheets even though I didn't have to. Was great to laugh at it while learning. </p>
 
 #### Sources:
-1. Google 
-2. Mpls Study Group in person.
-3. Chat Gpt
-4. Stackoverflow
-5. Tutor Brandon Wong helped optimize some of my code. 
+1. Google
+2. Xpert learning
+3. Mpls Study Group in person.
+4. Chat Gpt
+5. Stackoverflow
+6. Tutor Brandon Wong helped optimize some of my code. 
